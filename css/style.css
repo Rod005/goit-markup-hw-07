@@ -1185,7 +1185,7 @@ img {
   display: block;
 }
 
-.footer-container-form form {
+.footer-bg-container form {
   display: flex;
   align-items: flex-end;
 }
@@ -1300,7 +1300,7 @@ img {
     padding-left: 108px;
   }
 
-  .footer-container-form {
+  .footer-bg-container {
     width: 264px;
     margin-left: 0;
     margin-bottom: 72px;
@@ -1345,7 +1345,7 @@ img {
     padding-left: 156px;
   }
 
-  .footer-container-form {
+  .footer-bg-container {
     width: 264px;
     margin-left: 0;
     margin-bottom: 72px;
