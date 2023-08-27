@@ -1119,6 +1119,7 @@ img {
   flex-shrink: 0;
   padding: 96px 0;
 }
+
 .footer-bg-container {
   display: flex;
   flex-direction: column;
@@ -1173,16 +1174,6 @@ img {
   align-items: center;
   justify-content: center;
   padding-left: 16px;
-}
-
-.footer-container-form {
-  display: flex;
-  flex-direction: column;
-  width: 268px;
-  flex-shrink: 0;
-  text-align: center;
-  margin-bottom: 72px;
-  display: block;
 }
 
 .footer-bg-container form {
